@@ -1,6 +1,0 @@
-[submodule "quickstart/themes/hugo-initio"]
-	path = quickstart/themes/hugo-initio
-	url = https://github.com/miguelsimoni/hugo-initio.git
-[submodule "quickstart/themes/hugo-devresume-theme"]
-	path = quickstart/themes/hugo-devresume-theme
-	url = https://github.com/cowboysmall-tools/hugo-devresume-theme.git
