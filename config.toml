@@ -11,7 +11,7 @@ theme = "hugo-initio"
     avatarclass = "circle"
     background = ""
     banner = "/images/bg1.jpg"
-    favicon = "/images/gt_favicon.png"
+    favicon = "/images/icon.png"
     DateForm = "January 10, 2022"
 
     showSubheader = true
