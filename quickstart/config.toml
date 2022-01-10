@@ -1,0 +1,85 @@
+baseURL = "https://walnut-ree.github.io/"
+languageCode = "en"
+title = "Ree's Homepage"
+theme = "hugo-initio"
+
+[params]
+    name = "Ruiyang (Ree) Liu"
+    description = "Ph.D. student @ ShanghaiTech University"
+    email = "liury[at]shanghaitech[dot]edu[dot]cn"
+    avatar = "images/profile.jpeg"
+    avatarclass = "circle"
+    background = ""
+    banner = "images/bg1.jpg"
+    favicon = "images/gt_favicon.png"
+    DateForm = "January 10, 2022"
+
+    showSubheader = true
+    showServices = true
+    showRecentWorks = true
+    showDownloads = false
+    showClients = false
+
+    showFooterContact = true
+    showFooterFollowMe = true
+    showFooterTextWidget = false
+    showFooterFormWidget = false
+
+[[menu.main]]
+    name = "home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    name = "photography"
+    url = "/photography/"
+    weight = 5
+[[menu.main]]
+    name = "scripts"
+    url = "/scripts/"
+    weight = 5
+
+[params.disqus]
+    site = "hugo-initio-site.disqus.com"
+
+[params.sharethis]
+    property = "123456789012345678901234"
+    custom = true
+
+[params.google.analytics]
+    trackerID = "G-7GKLQZNJPE"
+
+[[params.social]]
+	title = "twitter"
+	url = "https://twitter.com/novemree"
+    icon = "fab fa-twitter-square"
+    footer = true
+    sharethis = true
+    network = "twitter"
+[[params.social]]
+	title = "instagram"
+	url = "https://www.instagram.com/sol.mirit"
+    icon = "fab fa-instagram"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "linkedin"
+	url = "https://www.linkedin.com/in/reegrayi/"
+    icon = "fab fa-linkedin"
+    footer = false
+    sharethis = true
+    network = "linkedin"
+[[params.social]]
+	title = "github"
+	url = "https://github.com/walnut-REE"
+    icon = "fab fa-github"
+    footer = true
+    sharethis = false
+    network = ""
+[[params.social]]
+	title = "email"
+	url = "mailto:liury@shanghaitech.edu.cn"
+    icon = "fas fa-envelope-square"
+    footer = true
+    sharethis = false
+    network = "email"

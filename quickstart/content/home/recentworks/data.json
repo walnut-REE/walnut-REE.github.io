@@ -1,0 +1,96 @@
+[
+    {
+        "id": 0,
+        "name": "SofGAN: A Portrait Image Generator with Dynamic Styling **(TOG 2021)**",
+        "author": "Anpei Chen*, [Ruiyang Liu*](https://walnut-ree.github.io/), Ling Xie, Zhang Chen, Hao Su, Jingyi Yu",
+        "video": "images/works/sofgan.mp4",
+        "url": "https://apchenstu.github.io/sofgan",
+        "items": [
+            {
+                "name": "Project page",
+                "url": "https://apchenstu.github.io/sofgan"
+            },
+            {
+                "name": "Paper",
+                "url": "https://arxiv.org/abs/2007.03780"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/apchenstu/sofgan"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Syntropic Counterpoints: Metaphysics of The Machines **(ACM MM 2021)**",
+        "author": "Predrag K. Nikolic*, [Ruiyang Liu*](https://walnut-ree.github.io/), and Shengcheng Luo",
+        "video": "images/works/metamachine.mp4",
+        "url": "images/works/metamachine.mp4",
+        "items": [
+            {
+                "name": "Project page",
+                "url": "http://www.syntropic-counterpoints.com/metaphysics-of-the-machines.html"
+            },
+            {
+                "name": "Paper",
+                "url": "https://dl.acm.org/doi/10.1145/3474085.3478541"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Mutltimodal AI Companion for Interactive Fairytale Co-creation",
+        "author": "Ruiyang Liu*, Predrag K. Nikolic",
+        "video": "images/works/taletorium.mp4",
+        "url": "https://arxiv.org/abs/2112.00331",
+        "items": [
+            {
+                "name": "Project page",
+                "url": "http://www.syntropic-counterpoints.com/taletorium.html"
+            },
+            {
+                "name": "Paper",
+                "url": "https://arxiv.org/abs/2112.00331"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Learning to Dodge A Bullet **(ECCV 2018)**",
+        "author": "Shi Jin, [Ruiyang Liu](https://walnut-ree.github.io/), Jinwei Ye, Yu Ji, Jingyi Yu",
+        "image": "images/works/bullettime.PNG",
+        "url": "images/works/bullettime.gif",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://openaccess.thecvf.com/content_ECCV_2018/papers/shi_jin_Learning_to_Dodge_ECCV_2018_paper.pdf"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Automatic 3D Indoor Scene Modeling fromSingle Panorama **(CVPR 2018)**",
+        "author": "Yang Yang, Shi Jin, [Ruiyang Liu](https://walnut-ree.github.io/), Singbing Kang, Jingyi Yu",
+        "image": "images/works/auto3d.jpg",
+        "url": "http://openaccess.thecvf.com/content_cvpr_2018/papers/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Yang_Automatic_3D_Indoor_CVPR_2018_paper.pdf"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Fiber segmentation using a density-peaks clustering algorithm **(ISBI 2015)**",
+        "author": "Pingjun Chen, Xin Fan, [Ruiyang Liu](https://walnut-ree.github.io/), Xianxuan Tang, Hua Cheng",
+        "image": "images/works/fiber.png",
+        "url": "https://ieeexplore.ieee.org/document/7163953",
+        "items": [
+            {
+                "name": "Paper",
+                "url": "https://ieeexplore.ieee.org/document/7163953"
+            }
+        ]
+    }
+]
