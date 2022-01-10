@@ -1,0 +1,24 @@
+<div class="thumbnails recentworks">
+    {{ $data := .Resources.GetMatch .Params.file | transform.Unmarshal }} 
+    {{ range $index, $area := $data }}
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+            <a class="thumbnail" href="{{ .url }}">
+                <span class="img">
+                    <video autoplay="autoplay" preload="metadata" poster="{{ .image }}">
+                        <source src="{{ .video }}" type="video/mp4">
+                    </video>
+                    <span class="cover"><span class="more">See details &rarr;</span></span>
+                </span>
+                <span class="title">{{ .name | markdownify}}</span>
+            </a>
+            <span class="author">{{ .author | markdownify}}</span>
+            <span class="details">
+                {{ $len := sub (len .items) 1 }}
+                {{ range $i, $item := where .items "id" .index }}
+                    <a href="{{ .url }}">{{ .name }}</a>
+                    {{ if gt $len $i }} | {{ end }}
+                {{ end }}
+            </span>
+        </div>
+    {{ end }}
+</div>
