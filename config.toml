@@ -1,4 +1,4 @@
-baseURL = "https://walnut-ree.github.io/"
+baseURL = "https://walnut-ree.github.io"
 languageCode = "en"
 title = "Ree's Homepage"
 theme = "hugo-initio"
