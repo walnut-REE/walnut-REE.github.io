@@ -1,5 +1,5 @@
 +++
-title = "Downloads"
+title = "Projects"
 type = "download"
 weight = 3
 +++

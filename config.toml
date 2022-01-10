@@ -31,11 +31,11 @@ theme = "hugo-initio"
     weight = 1
 [[menu.main]]
     name = "photography"
-    url = "/photography/"
+    url = "/"
     weight = 5
 [[menu.main]]
     name = "scripts"
-    url = "/scripts/"
+    url = "/"
     weight = 5
 
 [params.disqus]

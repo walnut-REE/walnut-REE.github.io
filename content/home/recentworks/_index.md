@@ -1,5 +1,5 @@
 +++
-title = "Recent works"
+title = "Publications"
 type = "recentwork"
 file = "data.json"
 weight = 2
