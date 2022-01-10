@@ -34,7 +34,7 @@ theme = "hugo-initio"
     url = "/"
     weight = 5
 [[menu.main]]
-    name = "scripts"
+    name = "screenwriting"
     url = "/"
     weight = 5
 
