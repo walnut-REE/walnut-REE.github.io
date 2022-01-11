@@ -1,7 +1,7 @@
 baseURL = "https://walnut-ree.github.io"
 languageCode = "en"
 title = "Ree's Homepage"
-theme = "hugo-initio"
+theme = ["hugo-initio"]
 
 [params]
     name = "Ruiyang (Ree) Liu"
@@ -32,10 +32,6 @@ theme = "hugo-initio"
 [[menu.main]]
     name = "screenwriting"
     url = "/scripts"
-    weight = 5
-[[menu.main]]
-    name = "photography"
-    url = "/"
     weight = 5
 
 [params.disqus]
