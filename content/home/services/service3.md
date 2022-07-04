@@ -3,7 +3,7 @@ image = "images/logos/microsoft.png"
 title = "R&D Intern"
 +++
 
-``May. 2015 - Jan. 2016`` I worked as a R&D intern in [MSRA IEG](https://www.microsoft.com/en-us/research/group/innovation-engineering/) group working on .NET migration of facial detection recognition models used by [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/face/#features).
+``May 2015 - Jan 2016`` I worked as a R&D intern in [MSRA IEG](https://www.microsoft.com/en-us/research/group/innovation-engineering/) group working on .NET migration of facial detection recognition models used by [Azure Cognitive Services](https://azure.microsoft.com/en-us/services/cognitive-services/face/#features).
 
 <!--more-->
 
