@@ -1,12 +1,12 @@
 +++
 image = "images/logos/google.png"
 title = "SWE Intern"
-time = "2019.7 && 2021.7"
+time = "2019.7"
 +++
 
-``July - Nov. 2019`` Experiments with [TuNAS](https://arxiv.org/abs/2008.06120) on gating task.
+Experiments with [TuNAS](https://arxiv.org/abs/2008.06120) on gating task.
 
-``July - Sep. 2021`` Testing environment optimization.
+Testing environment optimization.
 
 <!--more-->
 
