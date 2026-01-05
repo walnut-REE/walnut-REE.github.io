@@ -1,6 +1,69 @@
 [
     {
         "id": 0,
+        "name": "GarmageNet **(TOG 2025)**",
+        "author": "Siran Li*, [Ruiyang Liu*†](https://walnut-ree.github.io/), Chen Liu*, Zhendong Wang, Gaofeng He, Yong-Lu Li, Xiaogang Jin, Huamin Wang",
+        "video": "images/works/garmagenet.mp4",
+        "url": "https://style3d.github.io/garmagenet/",
+        "items": [
+            {
+                "name": "Project page",
+                "url": "https://style3d.github.io/garmagenet/"
+            },
+            {
+                "name": "Paper",
+                "url": "https://dl.acm.org/doi/10.1145/3763271"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/Style3D/garmagenet-impl"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "name": "Design2GarmentCode **(CVPR 2025)**",
+        "author": "Feng Zhou*, [Ruiyang Liu†](https://walnut-ree.github.io/), Chen Liu, Gaofeng He, Yong-Lu Li, Xiaogang Jin, Huamin Wang",
+        "video": "images/works/d2g.mp4",
+        "url": "https://style3d.github.io/design2garmentcode/",
+        "items": [
+            {
+                "name": "Project page",
+                "url": "https://style3d.github.io/design2garmentcode/"
+            },
+            {
+                "name": "Paper",
+                "url": "http://arxiv.org/abs/2412.08603"
+            },
+            {
+                "name": "Github",
+                "url": "https://github.com/Style3D/design2garmentcode-impl"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Neural Impostor **(PG 2023)**",
+        "author": "[Ruiyang Liu*](https://walnut-ree.github.io/), Jinxu Xiang*, Bowen Zhao, Ran Zhang†, Jingyi Yu and Changxi Zheng",
+        "video": "images/works/ni.mp4",
+        "url": "https://pixel-lab-ny.github.io/Neural-Impostor/",
+        "items": [
+            {
+                "name": "Project page",
+                "url": "https://pixel-lab-ny.github.io/Neural-Impostor/"
+            },
+            {
+                "name": "Paper",
+                "url": "https://pixel-lab-ny.github.io/Neural-Impostor/static/pdfs/neural-impostor.pdf"
+            },
+            {
+                "name": "Video",
+                "url": "https://youtu.be/9K3lZMrWYLc?si=8n_4ztv2Un_a-IXO"
+            }
+        ]
+    },
+    {
+        "id": 3,
         "name": "SofGAN: A Portrait Image Generator with Dynamic Styling **(TOG 2021)**",
         "author": "Anpei Chen*, [Ruiyang Liu*](https://walnut-ree.github.io/), Ling Xie, Zhang Chen, Hao Su, Jingyi Yu",
         "video": "images/works/sofgan.mp4",
@@ -21,7 +84,7 @@
         ]
     },
     {
-        "id": 1,
+        "id": 4,
         "name": "Syntropic Counterpoints: Metaphysics of The Machines **(ACM MM 2021)**",
         "author": "[Ruiyang Liu](https://walnut-ree.github.io/), Shengcheng Luo, Predrag K. Nikolic",
         "video": "images/works/metamachine.mp4",
@@ -38,7 +101,7 @@
         ]
     },
     {
-        "id": 2,
+        "id": 5,
         "name": "Mutltimodal AI Companion for Interactive Fairytale Co-creation",
         "author": "Ruiyang Liu, Predrag K. Nikolic",
         "video": "images/works/taletorium.mp4",
@@ -55,7 +118,7 @@
         ]
     },
     {
-        "id": 3,
+        "id": 6,
         "name": "Learning to Dodge A Bullet **(ECCV 2018)**",
         "author": "Shi Jin, [Ruiyang Liu](https://walnut-ree.github.io/), Jinwei Ye, Yu Ji, Jingyi Yu",
         "image": "images/works/bullettime.PNG",
@@ -68,7 +131,7 @@
         ]
     },
     {
-        "id": 4,
+        "id": 7,
         "name": "Automatic 3D Indoor Scene Modeling fromSingle Panorama **(CVPR 2018)**",
         "author": "Yang Yang, Shi Jin, [Ruiyang Liu](https://walnut-ree.github.io/), Singbing Kang, Jingyi Yu",
         "image": "images/works/auto3d.jpg",
@@ -81,7 +144,7 @@
         ]
     },
     {
-        "id": 5,
+        "id": 8,
         "name": "Fiber segmentation using a density-peaks clustering algorithm **(ISBI 2015)**",
         "author": "Pingjun Chen, Xin Fan, [Ruiyang Liu](https://walnut-ree.github.io/), Xianxuan Tang, Hua Cheng",
         "image": "images/works/fiber.png",

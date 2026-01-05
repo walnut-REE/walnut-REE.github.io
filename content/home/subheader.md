@@ -3,8 +3,8 @@ type = "subheader"
 title = ""
 +++
 
-Hi, I’m Ruiyang (Ree), a Ph.D. student at ShanghaiTech University [Visual Intelligent Center (VIC)](http://vic.shanghaitech.edu.cn/), supervised by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/). Before that, I received my B.S degree from Dalian University of Technology, under the supervision of [Prof. Xin Fan](http://dutmedia.org/). 
+Hi, I’m Ruiyang (Ree). My work sits at the intersection of technology and art, with a primary interest in ***AI for Creativity*** and ***3D generation***. 
 
-My primary research interest is **AI for Creativity**, especially in 3D+ domain, exploring to combining the most advanced AI techs with artistic creativity. 
+Currently, I am an AI & Graphics Researcher at [Style3D Research](https://www.style3d.com/) specializing in garment modeling. I received my Ph.D. from ShanghaiTech University [Visual Intelligent Center](http://vic.shanghaitech.edu.cn/) in July 2023, supervised by [Prof. Jingyi Yu](http://www.yu-jingyi.com/cv/), and my B.S. from Dalian University of Technology under Prof. [Prof. Xin Fan](http://dutmedia.org/). 
 
-I write [movie scripts](/scripts) and research on [street photography](https://www.instagram.com/sol.mirit) during spare time.
+Beyond research, I write [movie scripts](/scripts) and work on [street photography](https://www.instagram.com/sol.mirit) sometimes.

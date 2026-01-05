@@ -5,8 +5,7 @@ theme = ["hugo-initio"]
 
 [params]
     name = "Ruiyang (Ree) Liu"
-    description = "Ph.D. student @ ShanghaiTech University"
-    email = "liury[at]shanghaitech[dot]edu[dot]cn"
+    description = "AI && Graphics Researcher @ Style3D Research"
     avatar = "/images/profile.jpeg"
     avatarclass = "circle"
     background = ""
@@ -20,7 +19,7 @@ theme = ["hugo-initio"]
     showDownloads = false
     showClients = false
 
-    showFooterContact = true
+    showFooterContact = false
     showFooterFollowMe = true
     showFooterTextWidget = false
     showFooterFormWidget = false
@@ -74,7 +73,7 @@ theme = ["hugo-initio"]
     network = ""
 [[params.social]]
 	title = "email"
-	url = "mailto:liury@shanghaitech.edu.cn"
+	url = "mailto:novemree@gmail.com"
     icon = "fas fa-envelope-square"
     footer = true
     sharethis = false
