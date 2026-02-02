@@ -78,3 +78,7 @@ theme = ["hugo-initio"]
     footer = true
     sharethis = false
     network = "email"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
