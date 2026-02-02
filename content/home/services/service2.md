@@ -3,7 +3,7 @@ image = "images/logos/runway.png"
 title = "PhD Researcher"
 +++
 
-``May 2021 - Aug. 2021`` I spend a wonderful summer with [RunwayML](https://runwayml.com/about/) team, doing research on **interactive video stylization**.
+In `2021`, I spend a wonderful time with [RunwayML](https://runwayml.com/about/) team, researching on **interactive video stylization**.
 
 <!--more-->
 

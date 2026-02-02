@@ -4,8 +4,7 @@ title = "SWE Intern"
 time = "2019.7"
 +++
 
-Experiments with [TuNAS](https://arxiv.org/abs/2008.06120) on gating task.
-Testing environment optimization.
+In `2019`, I joined Google as an SWE Intern experimenting with [TuNAS](https://arxiv.org/abs/2008.06120) on gating task, and working on testing environment optimization.
 
 <!--more-->
 
